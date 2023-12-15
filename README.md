@@ -2,6 +2,7 @@
 - Exploratory Analysis of CIFAR-10 Dataset
 - Custom Metric Implementations for UMAP Dim Reduction on Image Datasets 
 - Custom Model Implementation of UMAP_MNN Dim Reduction
+~~~
       A method for greater cluster separation utilizing UMAP with a mutual nearest neighbor graph
       Described in the paper:
       @article{Dalmia2021UMAPConnectivity,
@@ -22,13 +23,16 @@
       URL: https://umap-learn.readthedocs.io/en/latest/mutual_nn_umap.html
       and the method github following the path nearest neighbors notebook:
       URL: https://github.com/adalmia96/umap-mnn
+~~~
 - Custom Model Implementation of Unsupervised Deep Embedding for Clustering Analysis
+~~~
       An autoencoder clustering method from the paper
       Unsupervised Deep Embedding for Clustering Analysis
       by Junyuan Xie, Ross Girshick, and Ali Farhadi
       https://arxiv.org/pdf/1511.06335.pdf
       and based on David Ko's example implementation of their method:
       https://ai-mrkogao.github.io/reinforcement%20learning/clusteringkeras/
+~~~
 - Brief Model Performance Base Case Comparisons
 - Image Augmentation Techniques
 - Interactive Web-Application for Users to Try the Different Clustering Techniques + Dataset Augmentations
