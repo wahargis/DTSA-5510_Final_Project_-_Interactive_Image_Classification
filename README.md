@@ -35,4 +35,4 @@
 ~~~
 - Brief Model Performance Base Case Comparisons
 - Image Augmentation Techniques
-- Interactive Web-Application for Users to Try the Different Clustering Techniques + Dataset Augmentations
+- Interactive Web-Application using Gradio for Users to Try the Different Clustering Techniques + Dataset Augmentations
